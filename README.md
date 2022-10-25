@@ -1,6 +1,5 @@
 [![MasterHead](https://nira.ac.in/images/machine-banner-1.jpg)](https://tushargupta.io)
 
-
 <h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
 <h3 align="center">I am a Btech student at GLA University.</h3>
 <img align="right" alt ="Coding" width="400" src="https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpg">
@@ -16,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tushar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-gupta-bb38a2248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-gupta-bb38a2248/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/katw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="katw" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tushargcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushargcs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/im_tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im_tushar" height="30" width="40" /></a>
