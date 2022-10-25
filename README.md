@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-gupta-bb38a2248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-gupta-bb38a2248/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/katw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="katw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushargupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-gupta-bb38a2248/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/KATW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="katw" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tushargcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushargcs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/im_tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im_tushar" height="30" width="40" /></a>
 </p>
