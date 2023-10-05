@@ -3,7 +3,7 @@
 <h3 align="center">Passionate B.Tech Computer Science student with a love for coding and problem-solving. Committed to continuous learning, collaborating.</h3>
 <img align="right" alt="AI" width="600" src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile%20views&color=0e75b6&style=flat" alt="tushargcs" /> </p>
+<p align="left"> <img src="https://github.com/tushargCS?tab=repositories" alt="tushargcs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushargcs" alt="tushargcs" /></a> </p>
 
