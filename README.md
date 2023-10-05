@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)](https://tushargupta.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://tushargupta.io)
 <h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
 <h3 align="center">Passionate B.Tech Computer Science student with a love for coding and problem-solving. Committed to continuous learning, collaborating.</h3>
-img align="right" alt="AI" width="400" src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg"
+<img align="right" alt="AI" width="400" src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile%20views&color=0e75b6&style=flat" alt="tushargcs" /> </p>
 
