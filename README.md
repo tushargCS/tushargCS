@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile%20views&color=0e75b6&style=flat" alt="tushargcs" /> </p>
 
-<p align="left"> <a href="https://github.com/https://github.com/tushargCS?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=tushargcs" alt="tushargcs" /></a> </p>
+
 
 - 🔭 I’m currently working on **Machine Learning**
 
