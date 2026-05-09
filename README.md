@@ -81,8 +81,9 @@ Machine Learning • Deep Learning • NLP • LLMs • LangChain • RAG • AI
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tushargcs&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tushargcs/tushargcs/output/github-contribution-grid-snake-dark.svg" />
+</p>
 </div>
 
 ---
