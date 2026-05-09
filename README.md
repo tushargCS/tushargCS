@@ -1,65 +1,41 @@
-<!-- ======================= FUTURISTIC HEADER ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Tushar%20Gupta&fontSize=50&fontColor=A855F7&animation=fadeIn" />
+# Hi 👋 I'm Tushar Gupta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+System+Builder;Designing+Intelligent+Systems;LLMs+%7C+RAG+%7C+Agentic+AI;Backend+%7C+Scalable+Architecture;Always+Evolving+🚀" />
+### AI Engineer • Machine Learning Enthusiast • Full Stack Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Learning+LLMs+%26+Agentic+AI;DSA+%7C+Machine+Learning+%7C+Deep+Learning;Open+Source+Contributor;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-<!-- ======================= AURA LINE ======================= -->
+# 🚀 About Me
+
+- 🎓 B.Tech Computer Science Graduate
+- 🤖 Currently exploring **LLMs, Agentic AI & Deep Learning**
+- 💻 Strong interest in **AI Engineering + Backend Systems**
+- 🧠 Solving DSA problems consistently
+- 🌱 Learning:
+  - LangChain
+  - RAG Systems
+  - AI Agents
+  - Deep Learning
+  - MLOps
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-0d9b7c58-2c7b-4a61-8d9e-68cbd6c2c6b6.gif" width="80%" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mongodb,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-<!-- ======================= GLASS PROFILE ======================= -->
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushargcs&theme=tokyonight" />
-
-</div>
-
----
-
-<!-- ======================= CORE IDENTITY ======================= -->
-
-<div align="center">
-
-## 🧠 Identity
-
-I don’t just write code.  
-I build **intelligent systems** that solve real problems.
-
-⚡ AI + Backend = My Core Stack  
-🧩 Turning complexity into scalable solutions  
-🚀 Obsessed with learning, building, evolving  
-
-</div>
-
----
-
-<!-- ======================= TECH MATRIX ======================= -->
-
-## ⚡ Tech Matrix
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,mysql,mongodb,html,css,git,github,vscode" />
-
-</div>
-
----
-
-## 🤖 AI Systems
+# 🤖 AI / ML Stack
 
 <div align="center">
 
@@ -68,26 +44,12 @@ I build **intelligent systems** that solve real problems.
 </div>
 
 <p align="center">
-LLMs • RAG • Agentic AI • NLP • Deep Learning • ML Systems
+Machine Learning • Deep Learning • NLP • LangChain • RAG • LLM Apps
 </p>
 
 ---
 
-<!-- ======================= LIVE ACTIVITY ======================= -->
-
-## ⚡ Live Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushargcs&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-<!-- ======================= STATS ======================= -->
-
-## 📊 Stats
+# 📈 GitHub Stats
 
 <div align="center">
 
@@ -99,21 +61,27 @@ LLMs • RAG • Agentic AI • NLP • Deep Learning • ML Systems
 
 ---
 
-<!-- ======================= SNAKE ======================= -->
-
-## 🐍 Evolution Path
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tushargcs/tushargcs/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://streak-stats.demolab.com?user=tushargcs&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+# 🏆 Achievements
 
-## 🌐 Connect
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tushargcs&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -129,22 +97,24 @@ LLMs • RAG • Agentic AI • NLP • Deep Learning • ML Systems
 <img width="48" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" />
 </a>
 
+<a href="https://www.hackerrank.com/tushargupta22016">
+<img width="48" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
+</a>
+
 </div>
 
 ---
 
-<!-- ======================= QUOTE ======================= -->
+# 📫 Contact
+
+📧 **tushargupta22016@gmail.com**
+
+---
 
 <div align="center">
 
-### ⚡ "The future belongs to those who build it."
+### ⚡ "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile+Views&color=6366F1&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
-
----
-
-<!-- ======================= FOOTER ======================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=120&section=footer" />
