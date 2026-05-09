@@ -1,18 +1,26 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ======================= FUTURISTIC HEADER ======================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6366F1&height=180&section=header&text=Tushar%20Gupta&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Tushar%20Gupta&fontSize=50&fontColor=A855F7&animation=fadeIn" />
 
-# ⚡ AI Engineer • Builder • Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;LLMs+%7C+Agentic+AI+%7C+RAG+Systems;Designing+Scalable+Backend+Systems;Machine+Learning+%7C+Deep+Learning;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+System+Builder;Designing+Intelligent+Systems;LLMs+%7C+RAG+%7C+Agentic+AI;Backend+%7C+Scalable+Architecture;Always+Evolving+🚀" />
 
 </div>
 
 ---
 
-<!-- ==================== GLASS CARD ==================== -->
+<!-- ======================= AURA LINE ======================= -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-0d9b7c58-2c7b-4a61-8d9e-68cbd6c2c6b6.gif" width="80%" />
+
+</div>
+
+---
+
+<!-- ======================= GLASS PROFILE ======================= -->
 
 <div align="center">
 
@@ -22,24 +30,26 @@
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
+<!-- ======================= CORE IDENTITY ======================= -->
 
 <div align="center">
 
-## 🧠 About Me
+## 🧠 Identity
 
-💡 Building at the intersection of **AI + Scalable Systems**  
-⚙️ Focused on **LLMs, RAG, and Agentic AI**  
-📈 Passionate about solving **real-world problems with intelligent systems**  
-🔥 Consistent learner, builder & problem solver  
+I don’t just write code.  
+I build **intelligent systems** that solve real problems.
+
+⚡ AI + Backend = My Core Stack  
+🧩 Turning complexity into scalable solutions  
+🚀 Obsessed with learning, building, evolving  
 
 </div>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ======================= TECH MATRIX ======================= -->
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Matrix
 
 <div align="center">
 
@@ -49,7 +59,7 @@
 
 ---
 
-## 🤖 AI / ML Stack
+## 🤖 AI Systems
 
 <div align="center">
 
@@ -58,14 +68,26 @@
 </div>
 
 <p align="center">
-Machine Learning • Deep Learning • NLP • LLMs • LangChain • RAG • AI Agents
+LLMs • RAG • Agentic AI • NLP • Deep Learning • ML Systems
 </p>
 
 ---
 
-<!-- ==================== STATS ==================== -->
+<!-- ======================= LIVE ACTIVITY ======================= -->
 
-## 📊 GitHub Analytics
+## ⚡ Live Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushargcs&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<!-- ======================= STATS ======================= -->
+
+## 📊 Stats
 
 <div align="center">
 
@@ -77,32 +99,21 @@ Machine Learning • Deep Learning • NLP • LLMs • LangChain • RAG • AI
 
 ---
 
-## 🔥 Contribution Streak
+<!-- ======================= SNAKE ======================= -->
+
+## 🐍 Evolution Path
 
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tushargcs/tushargcs/output/github-contribution-grid-snake-dark.svg" />
-</p>
-</div>
-
----
-
-<!-- ==================== SNAKE ANIMATION ==================== -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tushargcs/tushargcs/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/tushargcs/tushargcs/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+<!-- ======================= CONNECT ======================= -->
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -122,14 +133,18 @@ Machine Learning • Deep Learning • NLP • LLMs • LangChain • RAG • AI
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+<!-- ======================= QUOTE ======================= -->
 
 <div align="center">
 
-### ⚡ "Build. Break. Learn. Repeat."
+### ⚡ "The future belongs to those who build it."
 
-<img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile+Views&color=A855F7&style=flat" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6366F1&height=120&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile+Views&color=6366F1&style=flat" />
 
 </div>
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=120&section=footer" />
