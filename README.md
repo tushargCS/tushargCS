@@ -1,35 +1,120 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://tushargupta.io)
-<h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
-<h3 align="center">B.Tech Computer Science Graduate with a love for coding and problem-solving. Committed to continuous learning, collaborating.</h3>
-<img align="right" alt="AI" width="600" src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile%20views&color=0e75b6&style=flat" alt="tushargcs" /> </p>
+# Hi 👋 I'm Tushar Gupta
 
+### AI Engineer • Machine Learning Enthusiast • Full Stack Learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushargcs" alt="tushargcs" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Learning+LLMs+%26+Agentic+AI;DSA+%7C+Machine+Learning+%7C+Deep+Learning;Open+Source+Contributor;Always+Learning+Something+New" />
 
+</div>
 
-- 🔭 I’m currently working on **Machine Learning**
+---
 
-- 🌱 I’m currently learning **Deep Learning**
+# 🚀 About Me
 
-- 💬 Ask me about **Python, JAVA, DSA, ML**
+- 🎓 B.Tech Computer Science Graduate
+- 🤖 Currently exploring **LLMs, Agentic AI & Deep Learning**
+- 💻 Strong interest in **AI Engineering + Backend Systems**
+- 🧠 Solving DSA problems consistently
+- 🌱 Learning:
+  - LangChain
+  - RAG Systems
+  - AI Agents
+  - Deep Learning
+  - MLOps
 
-- 📫 How to reach me **tushargupta22016@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tusharguptacs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tusharguptacs" height="30" width="40" /></a>
-<a href="https://kaggle.com/tusharguptacs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tusharguptacs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tushargupta22016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tushargupta22016" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/im_tushar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/im_tushar/" height="30" width="40" /></a>
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mongodb,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+# 🤖 AI / ML Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</div>
+
+<p align="center">
+Machine Learning • Deep Learning • NLP • LangChain • RAG • LLM Apps
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargcs&show_icons=true&locale=en&layout=compact" alt="tushargcs" /></p>
+# 📈 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushargcs&show_icons=true&locale=en" alt="tushargcs" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargcs&" alt="tushargcs" /></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tushargcs&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushargcs&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tushargcs&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tushargcs&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/tusharguptacs">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.kaggle.com/tusharguptacs">
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
+</a>
+
+<a href="https://leetcode.com/im_tushar/">
+<img width="48" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" />
+</a>
+
+<a href="https://www.hackerrank.com/tushargupta22016">
+<img width="48" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
+</a>
+
+</div>
+
+---
+
+# 📫 Contact
+
+📧 **tushargupta22016@gmail.com**
+
+---
+
+<div align="center">
+
+### ⚡ "Code. Learn. Build. Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
