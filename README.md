@@ -1,50 +1,92 @@
 <div align="center">
 
-# Hi 👋 I'm Tushar Gupta
+# 👋 Hi, I'm Tushar Gupta
 
-### AI Engineer • Machine Learning Enthusiast • Full Stack Learner
+### 🚀 AI Engineer | Backend Developer | Full Stack Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Learning+LLMs+%26+Agentic+AI;DSA+%7C+Machine+Learning+%7C+Deep+Learning;Open+Source+Contributor;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Applications;LLMs+%7C+Agentic+AI+%7C+RAG+Systems;Backend+Engineering+%7C+Scalable+Systems;DSA+%7C+Machine+Learning+%7C+Deep+Learning;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
-- 🎓 B.Tech Computer Science Graduate
-- 🤖 Currently exploring **LLMs, Agentic AI & Deep Learning**
-- 💻 Strong interest in **AI Engineering + Backend Systems**
-- 🧠 Solving DSA problems consistently
-- 🌱 Learning:
-  - LangChain
-  - RAG Systems
-  - AI Agents
-  - Deep Learning
-  - MLOps
+💡 Passionate developer blending **AI + Backend Engineering**  
+🏦 Currently working on **Banking Systems (BFSI Domain)**  
+🤖 Exploring **LLMs, RAG, AI Agents & Deep Learning**  
+📊 Strong foundation in **Data Structures, OOP & System Design**  
+🔥 Consistent problem solver (**250+ DSA problems solved**)  
+
+---
+
+# 💼 Professional Experience
+
+### 🏢 Tata Consultancy Services (TCS)
+**Full Stack Development Engineer | Jun 2024 – Present**
+
+- ⚡ Built & maintained **high-volume banking applications**
+- 🧩 Designed backend systems using **Java & OOP principles**
+- 🚀 Optimized SQL queries → improved performance
+- 🛠️ Resolved **production-level issues**
+- 🤝 Worked in **Agile teams with cross-functional collaboration**
+
+---
+
+### 🏢 Accenture
+**Packaged App Development Associate | Sep 2024 – Feb 2025**
+
+- ☁️ Trained in **Salesforce CRM & Apex**
+- 🧠 Learned **enterprise application architecture**
+- 🔧 Worked on **SDLC & business requirement analysis**
+
+---
+
+# 🚀 Projects
+
+### 🏏 IPL Win Probability Predictor
+- 📊 ML model using **Logistic Regression**
+- 📈 Real-time match predictions
+- 🌐 Built with **Streamlit**
+- 📦 Dataset: IPL (2009–2019)
+
+---
+
+### 🎬 Movie Recommender System
+- 🤖 Content-based recommendation engine
+- 🔍 Used **CountVectorizer + Cosine Similarity**
+- 🧠 Personalized recommendations
+- 🌐 Deployed with **Streamlit**
 
 ---
 
 # 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,sql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mongodb,mysql,git,github,vscode" />
+### 🌐 Web & Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,spring,mysql,mongodb" />
+</p>
 
-</div>
+### 🤖 AI / ML
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="center">
+Machine Learning • Deep Learning • NLP • LLMs • LangChain • RAG • AI Agents
+</p>
 
 ---
 
-# 🤖 AI / ML Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-</div>
+# ⚙️ Tools & Technologies
 
 <p align="center">
-Machine Learning • Deep Learning • NLP • LangChain • RAG • LLM Apps
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -61,7 +103,7 @@ Machine Learning • Deep Learning • NLP • LangChain • RAG • LLM Apps
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Streak Stats
 
 <div align="center">
 
@@ -71,13 +113,12 @@ Machine Learning • Deep Learning • NLP • LangChain • RAG • LLM Apps
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Certifications
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tushargcs&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
+- 🧠 Generative AI Leader – Google Cloud  
+- 🤖 ML, DL & NLP – Udemy  
+- 👁️ Computer Vision Bootcamp (PyTorch & TensorFlow)  
+- 🧩 Solved **250+ DSA problems (LeetCode)**  
 
 ---
 
@@ -113,7 +154,7 @@ Machine Learning • Deep Learning • NLP • LangChain • RAG • LLM Apps
 
 <div align="center">
 
-### ⚡ "Code. Learn. Build. Repeat."
+### ⚡ "Build AI. Scale Systems. Solve Real Problems."
 
 <img src="https://komarev.com/ghpvc/?username=tushargcs&label=Profile+Views&color=0e75b6&style=flat" />
 
